@@ -1,7 +1,7 @@
 package com.driver;
 
 public class B extends A {
-    B(){
+   public B(){
 
     }
     
